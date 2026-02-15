@@ -34,7 +34,6 @@ This project simulates a multi-threaded file downloader using Java threads. Each
 3. View progress updates in the console  
 
 ---
----
 
 ## 🎯 Learning Outcomes
 - Learned how to use threads in Java  
