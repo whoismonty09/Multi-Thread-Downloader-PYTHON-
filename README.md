@@ -34,5 +34,3 @@ This project simulates a multi-threaded file downloader using Java threads. Each
 3. View progress updates in the console  
 
 ---
-
-## 🧪 Sample Output
